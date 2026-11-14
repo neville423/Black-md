@@ -19,10 +19,10 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npn install
 
       - name: Check JavaScript syntax
-        run: npm run check
+        run: npn run check
 
       - name: Run tests
-        run: npm test
+        run: npn test
