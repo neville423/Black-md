@@ -1,4 +1,4 @@
-name: Validate black XMD
+name: Validate XMD
 
 on:
   push:
